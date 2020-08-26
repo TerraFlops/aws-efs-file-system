@@ -1,8 +1,9 @@
 # Terraflops Terraform Module
  
-### Module name
+### AWS EFS File System
 
-Insert module description
+This module can be used to provision an EFS file system and one or more
+mount points in VPC subnet(s).
 
 #### Example usage
 
